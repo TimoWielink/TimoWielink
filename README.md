@@ -9,3 +9,5 @@ I have been working on Open Source projects for years, at [project-owl](https://
 - 📷 Check out my [website](https://timowielink.com) for latest blogs and portfolio updates 
 
 p.s. I really like well desinged READEME's
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timowielink&count_private=true&theme=graywhite)
