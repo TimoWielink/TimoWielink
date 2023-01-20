@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Timo!
 
-I have been working on Open Source projects for years, at [project-owl](https://www.project-owl.com) we open sourced [The ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) together with the [Linux Foundation](https://www.linuxfoundation.org/) after winning the [IBM Call For Code](https://www.linuxfoundation.org/). I work as a product designer and Front-End developer and like to work on hardware projects in my spare time.  
+I have been working on Open Source projects for years, at [project-owl](https://www.project-owl.com) we open sourced [The ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) together with the [Linux Foundation](https://www.linuxfoundation.org/) after winning the [IBM Call For Code](https://www.linuxfoundation.org/). I work as a product designer and Front-End developer and like to work on hardware projects in my spare time. Currently at @flexclub  
 
 
 - 🔭 I’m currently working on [The ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol)
