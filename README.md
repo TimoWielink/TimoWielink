@@ -10,4 +10,4 @@ I have been working on Open Source projects for years, at [OWL](https://www.proj
 
 p.s. I really like well desinged READEME's
 
-[![Timo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=timowielink&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Timo's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=timowielink&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
